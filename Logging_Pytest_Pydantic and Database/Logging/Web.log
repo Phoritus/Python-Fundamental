@@ -1,0 +1,41 @@
+2025-05-07 12:33:33,348 - INFO - User Kirito logged in
+2025-05-07 12:33:33,348 - INFO - Data Processing good_data
+2025-05-07 12:33:33,348 - INFO - User Kirito logged out
+2025-05-07 12:33:51,765 - INFO - User Kirito logged in
+2025-05-07 12:33:51,765 - INFO - Data Processing good_data
+2025-05-07 12:33:51,765 - INFO - User Kirito logged out
+2025-05-07 12:34:04,062 - INFO - User Kirito logged in
+2025-05-07 12:34:04,062 - ERROR - Error processing data Invalid Data
+Traceback (most recent call last):
+  File "C:\code\Logging_Pytest_Pydantic and Database\logging_1.py", line 15, in process_data
+    raise ValueError('Invalid Data')
+ValueError: Invalid Data
+2025-05-07 12:34:04,064 - INFO - User Kirito logged out
+2025-05-07 12:34:53,644 - INFO - User Kirito logged in
+2025-05-07 12:34:53,644 - ERROR - Error processing data Invalid Data
+Traceback (most recent call last):
+  File "C:\code\Logging_Pytest_Pydantic and Database\logging_1.py", line 15, in process_data
+    raise ValueError('Invalid Data')
+ValueError: Invalid Data
+2025-05-07 12:34:53,646 - INFO - User Kirito logged out
+2025-05-07 12:56:25,328 - INFO - User Kirito logged in
+2025-05-07 12:56:25,328 - ERROR - Error processing data Invalid Data
+Traceback (most recent call last):
+  File "C:\code\Logging_Pytest_Pydantic and Database\logging_1.py", line 15, in process_data
+    raise ValueError('Invalid Data')
+ValueError: Invalid Data
+2025-05-07 12:56:25,330 - INFO - User Kirito logged out
+2025-05-09 19:28:52,443 - INFO - User Kirito logged in
+2025-05-09 19:28:52,443 - ERROR - Error processing data Invalid Data
+Traceback (most recent call last):
+  File "c:\code\Logging_Pytest_Pydantic and Database\Logging\logging_1.py", line 15, in process_data
+    raise ValueError('Invalid Data')
+ValueError: Invalid Data
+2025-05-09 19:28:52,447 - INFO - User Kirito logged out
+2025-05-09 19:29:18,101 - INFO - User Kirito logged in
+2025-05-09 19:29:18,101 - ERROR - Error processing data Invalid Data
+Traceback (most recent call last):
+  File "c:\code\Logging_Pytest_Pydantic and Database\Logging\logging_1.py", line 15, in process_data
+    raise ValueError('Invalid Data')
+ValueError: Invalid Data
+2025-05-09 19:29:18,106 - INFO - User Kirito logged out
